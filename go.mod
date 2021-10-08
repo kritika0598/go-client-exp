@@ -1,4 +1,4 @@
-module projectone
+module lister
 
 go 1.13
 
